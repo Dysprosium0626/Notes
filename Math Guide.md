@@ -172,3 +172,5 @@ $$
 无限 $\infty$, 极限 $\lim$, 微分 ${\rm d}$, 偏导 $\partial$, 点求导 $\dot{y}$, 点二阶导 $\ddot{y}$, 变化量 $\Delta$, 梯度 $\nabla$.
 横省略 $\cdots$, 竖省略 $\vdots$, 斜省略 $\ddots$.
 常见函数 $\sin$, $\cos$, $\tan$, $\arcsin$, $\arccos$, $\arctan$, $\ln$, $\log$, $\exp$.
+
+### 12.to be continued
