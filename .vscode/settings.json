@@ -5,6 +5,7 @@
         "karhunen",
         "otsu",
         "quantizer",
+        "riccati",
         "unsharp"
     ]
 }
